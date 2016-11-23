@@ -1,5 +1,5 @@
 
-//FEB
+//Creation of FIB
 public class FibanocciSeries 
 {
 	public static void main(String[] args) 
